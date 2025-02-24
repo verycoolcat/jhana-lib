@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/practicing-the-jhanas/02-2019-12-17-counting-within-the-breath-guided-meditation/"}
 ---
 
-[Listen](https://dharmaseed.org/talks/player/60860.html)
+[Listen](https://dharmaseed.org/talks/player/60863.html)
 [Download](https://dharmaseed.org/talks/60860/20191217-Rob_Burbea-GAIA-02-2019-12-17-Counting_Within_the_Breath-Guided_Meditation-60860.mp3)
 [Read](https://hermesamara.org/resources/talk/2019-12-17-counting-within-the-breath-guided-meditation)
 ### Index
