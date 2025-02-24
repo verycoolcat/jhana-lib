@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/02-2019-12-17-counting-within-the-breath-guided-meditation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/02-2019-12-17-counting-within-the-breath-guided-meditation/"}
 ---
 
 [Listen](https://dharmaseed.org/talks/player/60860.html)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/03-2019-12-18-the-energy-body-and-the-whole-body-breath-instructions-and-guided-meditation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/03-2019-12-18-the-energy-body-and-the-whole-body-breath-instructions-and-guided-meditation/"}
 ---
 
 [Listen](https://dharmaseed.org/talks/player/60865.html)

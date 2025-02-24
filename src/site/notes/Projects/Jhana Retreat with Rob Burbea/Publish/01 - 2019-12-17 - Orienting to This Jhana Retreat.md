@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/01-2019-12-17-orienting-to-this-jhana-retreat/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/jhana-retreat-with-rob-burbea/publish/01-2019-12-17-orienting-to-this-jhana-retreat/"}
 ---
 
 [Listen](https://dharmaseed.org/talks/player/60865.html)
