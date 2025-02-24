@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/practicing-the-jhanas/03-2019-12-18-the-energy-body-and-the-whole-body-breath-instructions-and-guided-meditation/"}
 ---
 
-[Listen](https://dharmaseed.org/talks/player/60865.html)
+[Listen](https://dharmaseed.org/talks/player/60884.html)
 [Download](https://dharmaseed.org/talks/60865/20191218-Rob_Burbea-GAIA-03-2019-12-18-The_Energy_Body_and_the_Whole-body_breath-Instructions_and_Guided_Meditation-60865.mp3)
 [Read](https://hermesamara.org/resources/talk/2019-12-18-the-energy-body-and-the-whole-body-breath-instructions-and-guided-meditation)
 ### Index
